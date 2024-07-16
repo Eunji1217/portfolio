@@ -20,7 +20,7 @@
       "webUrl": "https://github.com/SMU-LIKELION-HACKATHON-3TEAM/3team-backend",
       "repoUrl": "https://github.com/SMU-LIKELION-HACKATHON-3TEAM/3team-backend",
       "isTeam": true,
-      "period": ["2024. 04", "2024. 05"],
+      "period": ["2023. 06", "2023. 07"],
       "stack": ["Java","SpringBoot", "MySQL","AWS", "JavaScript", "Html", "CSS","Figma","Notion","Discord"]
     },
     {
@@ -40,7 +40,7 @@
       "webUrl": "https://github.com/team-grinder/grinder",
       "repoUrl": "https://github.com/team-grinder/grinder",
       "isTeam": true,
-      "period": ["2023. 06", "2023. 07"],
+      "period": ["2024. 04", "2024. 05"],
       "stack": ["Java","SpringBoot", "PostgreSQL","AWS", "JavaScript", "Html", "CSS","Jira","Figma","Notion","Discord"]
     }
   ],
