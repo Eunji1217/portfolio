@@ -1,7 +1,5 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- `Java` 백엔드 개발자 이은지입니다.
+- 한 가지 일을 `몰입`하여 `근성`있게 해결하는 장점을 갖고 있습니다.
+- 세상의 가능한 많은 것들을 프로그래밍하고 싶습니다.
+- 더 `효율적`이고 `안정적`인 서버를 개발하는 것이 저의 목표입니다.
+- 앞으로도 `꾸준히 성장`해나가겠습니다.
